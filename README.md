@@ -3,6 +3,8 @@
 
 Design of 21 error pages for your app it runs both Android and iOS because it builds with flutter. It contains almost all error pages like 404 page not found, No internet connection, File not found, also contain location access or camera access custom screen which provide you better user experience.
 
+![App UI](/ui.png)
+
 ### ScreenShots
 
 ![21_No Camera Access](https://user-images.githubusercontent.com/80456446/124980850-327eee80-e035-11eb-95d2-a78840fb084f.png)
@@ -28,6 +30,4 @@ Design of 21 error pages for your app it runs both Android and iOS because it bu
 ![20_File Not Found](https://user-images.githubusercontent.com/80456446/124980961-49bddc00-e035-11eb-9c12-a1a11e24df6e.png)
 
 
-![App UI](/ui.png)
-# Error-Pages-
 
